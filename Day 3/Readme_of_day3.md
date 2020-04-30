@@ -1,6 +1,6 @@
 # C PROGRAMMING DAY 3
 
-## TOPICS COVERED
+## Topics Covered
 
 * What are control statements
 * if-else
@@ -10,6 +10,10 @@
    * For loop
 * Goto
 * Switch
+
+## Theory
+
+Read from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/Day%203/C%20PROGRAMMING%20%20DAY%203.pptx?raw=true)
 
 ## Code Snippets
 
@@ -405,5 +409,3 @@ case 2,4,5:
 */
 
 ```
-
-Read more from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/Day%203/C%20PROGRAMMING%20%20DAY%203.pptx?raw=true)
