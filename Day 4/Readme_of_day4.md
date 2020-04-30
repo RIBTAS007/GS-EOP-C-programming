@@ -1,6 +1,6 @@
 # C PROGRAMMING DAY 4
 
-## TOPICS COVERED
+## Topics Covered
 
 * Functions in detail
 * Global,local and static variables
