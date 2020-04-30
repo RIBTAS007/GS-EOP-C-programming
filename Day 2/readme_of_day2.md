@@ -1,11 +1,15 @@
 # C PROGRAMMING DAY 2
 
-## TOPICS COVERED
+## Topics Covered
 
 * Operators
 * Types of operators
 * Precedence of operators
 * typecasting 
+
+## Theory
+
+Read from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/Day%202/Day%202%20ppt.pptx?raw=true)
 
 ## Code Snippets
 
@@ -299,5 +303,3 @@ int main()
     return 0; 
 } 
 ```
-
-Read more from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/Day%202/Day%202%20ppt.pptx?raw=true)
