@@ -38,5 +38,3 @@ int main()
 }
 ```
 
-Read more from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/DAY%201/C%20PROGRAMMING%20day%201.pptx?raw=true)
-
