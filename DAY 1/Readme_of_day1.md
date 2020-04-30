@@ -1,8 +1,15 @@
 # C PROGRAMMING DAY 1
 
-In todays session we just got familiar with what this course is all about , syllabus etc.
+## Topics Covered
+* Introduction to C programming
+* Taking input using printf()
+* Giving output using scanf()
 
-We learned in brief about taking input and giving output in a C program.
+## Theory
+
+Read from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/DAY%201/C%20PROGRAMMING%20day%201.pptx?raw=true)
+
+## Code Snippets
 
 For giving output we use **printf()**
 
