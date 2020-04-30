@@ -300,4 +300,4 @@ int main()
 } 
 ```
 
-Read more from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/Day%202/Day%202%20ppt.pptx)
+Read more from this [presentation](https://github.com/RIBTAS007/EDUCATION-OUTREACH-2-C-prog/blob/master/Day%202/Day%202%20ppt.pptx?raw=true)
