@@ -4,7 +4,7 @@
 
 * Operators
 * Types of operators
-* Precednce of operators
+* Precedence of operators
 * typecasting 
 
 ## Code Snippets
