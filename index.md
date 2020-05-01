@@ -10,7 +10,7 @@ DAY | Topics Covered
 2 | [Operators in C, Typecasting](Day%202/readme_of_day2.html) 
 3 | [Control statements](Day%203/Readme_of_day3.html) 
 4 | [Functions](Day%204/Readme_of_day4.html) 
-5 | [String,Pointers and Arrays]() 
-6 | [Structures and union ]( ) 
-7 | [Miscellenous Topics ]() 
+5 | [String and Arrays](Day%205/readme_of_day5.html) 
+6 | [Pointers ]( ) 
+7 | [Structures]() 
 
