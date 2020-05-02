@@ -11,6 +11,6 @@ DAY | Topics Covered
 3 | [Control statements](Day%203/Readme_of_day3.html) 
 4 | [Functions](Day%204/Readme_of_day4.html) 
 5 | [String and Arrays](Day%205/readme_of_day5.html) 
-6 | [Pointers ](Day%206/readme_of_day6.html)  
+6 | [Pointers ](Day%206/Readme_of_day6.html)  
 7 | [Structures]() 
 
