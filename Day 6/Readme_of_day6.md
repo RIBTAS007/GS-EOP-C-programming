@@ -25,7 +25,7 @@ int main(void)
 }
 ```
 
-Program to print values and addresses of varibales and poinnter variables
+Program to print values and addresses of variables and pointer variables
 
 ```c
 #include<stdio.h>
