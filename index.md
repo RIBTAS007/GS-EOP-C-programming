@@ -1,7 +1,8 @@
 # C Programming : GirlScript Education Outreach
 
-This is a 7 day crash course of C Programming which will cover almost all the basics required to kickstart C programming.
 ![logo](GSCP2.jpg)
+
+*This is a 7 day crash course of C Programming which will cover almost all the basics required to kickstart C programming.*
 
   ***
 
