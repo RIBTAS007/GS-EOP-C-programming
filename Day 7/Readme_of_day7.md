@@ -14,7 +14,7 @@ Read from this [presentation](https://github.com/RIBTAS007/GS-EOP-C-programming/
 
 Usage of various functions to allocate memory dynamically
 
-1. Usage of **malloc()**
+Usage of **malloc()**
 
 ```c
 //malloc
@@ -52,7 +52,7 @@ int main()
 }
 ```
 
-2. Usage of **calloc()**
+Usage of **calloc()**
 
 ```c
 //calloc 
@@ -90,7 +90,7 @@ int main()
 }
 ```
 
-3. usage of **realloc()**
+Usage of **realloc()**
 
 ```c
 #include<stdio.h>
