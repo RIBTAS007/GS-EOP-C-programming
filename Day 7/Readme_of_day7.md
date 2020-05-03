@@ -308,4 +308,4 @@ int main(void) {
   return 0;
 }
 ```
-[Linked List](Day 7/ linked list.html)
+[Linked List](Day%207/Linkedlist.html)
