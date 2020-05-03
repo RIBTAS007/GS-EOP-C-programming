@@ -14,4 +14,4 @@ DAY | Topics Covered
 4 | [Functions](Day%204/Readme_of_day4.html) 
 5 | [Arrays and string](Day%205/Readme_of_day5.html) 
 6 | [Pointers ](Day%206/Readme_of_day6.html) 
-7 | [Structures ]() 
+7 | [Structures ](Day%207/Readme_of_day7.html) 
