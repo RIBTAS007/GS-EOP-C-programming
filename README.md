@@ -1,6 +1,8 @@
 # C Programming : GirlScript Education Outreach
 
-https://ribtas007.github.io/GS-EOP-C-programming/
+## [Course Website](https://ribtas007.github.io/GS-EOP-C-programming/)
+
+![logo](GSCP2.jpg)
 
 This is a 7 day crash course of C Programming which will cover almost all the basics required to kickstart C programming.
 
